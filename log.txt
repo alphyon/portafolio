@@ -1,0 +1,29 @@
+commit a8a851e232fdc9308b28b9dcd4bc24b4991c3285
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Fri Feb 13 15:21:06 2015 -0600
+
+    Agregados Redes
+
+commit 6e6f7e8f4def455805dab3039162b66b2576c8c0
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Fri Feb 13 15:17:08 2015 -0600
+
+    Agregados proyecto
+
+commit 4a89c73fc21fcd87bbcd7348527e05b35895a653
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Fri Feb 13 15:14:05 2015 -0600
+
+    Agregada informacion personal
+
+commit feff346eba43a8f3c895fc6e2336620684a3b626
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Fri Feb 13 15:07:48 2015 -0600
+
+    Agregada foto e informacion personal
+
+commit 91c2f59a2f45230fe3bdad3fa4bb60f7bdf620b4
+Author: Alphyon <alphyon21@yahoo.es>
+Date:   Fri Feb 13 14:53:50 2015 -0600
+
+    commit inicial
