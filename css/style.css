@@ -10,19 +10,11 @@
   padding: 0 15px;
 }
 
-
-body{
-  background:#fff;
+.ppanel{
+  padding:0.5em;
+  text-align:justify;
 }
 
-h1,h2,h3,h4,h5,h6{
-  background:#eceff1;
-  border-bottom:2px solid #cddc39;
-}
-
-
-
-
-p{
-  color:#0f0;
+.borde-element{
+  border:solid 1px #eee;
 }
